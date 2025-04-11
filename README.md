@@ -6,9 +6,9 @@ I'm an aspiring software developer with a Bachelor's degree in English and Ameri
 and a Master's degree in English Studies/Linguistics.
 
 I found my passion for programming in 2024 while still working as a journalist. I started teaching myself Java
-with a udemy course and then got accepted at Masterschool where I started studying in December 2024.
+and then got accepted at Masterschool where I started studying in December 2024. 
 
-My current specialization is backend engineering, but my goal is to become a full-stack developer.
+I specialize in backend engineering, but my goal is to become a full-stack developer.
 <br>
 
 <h2>Skills and Technologies</h2>
