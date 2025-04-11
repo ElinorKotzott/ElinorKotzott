@@ -25,7 +25,10 @@ I specialize in backend engineering, but my goal is to become a full-stack devel
 
 <h2> :zap: GitHub Stats </h2>
 
-<img align="left" alt="Elinor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinorKotzott&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Elinor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElinorKotzott&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+
+
+
 
 
 
