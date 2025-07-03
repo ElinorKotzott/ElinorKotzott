@@ -1,4 +1,4 @@
-<h1> Hello world, I'm Elinor! <img src="https://static-00.iconduck.com/assets.00/sparkles-emoji-2048x1972-iqck4205.png" alt="Icon" width="25">
+<h1> Hello world, I'm Elinor! :zap:
 </h1>
 
 Welcome to my profile!
