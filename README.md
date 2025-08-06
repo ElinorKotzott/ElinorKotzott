@@ -6,7 +6,7 @@ I'm an aspiring software developer with a Bachelor's degree in English and Ameri
 and a Master's degree in English Studies/Linguistics.
 
 I found my passion for programming in 2024 while still working as a journalist. I started teaching myself Java
-and then got accepted at Masterschool where I started studying in December 2024. 
+and then got accepted at Masterschool where I studied from December 2024 to August 2025.  
 
 I specialize in backend engineering, but my goal is to become a full-stack developer.
 <br>
