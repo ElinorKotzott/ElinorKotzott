@@ -11,7 +11,7 @@ and then got accepted at Masterschool where I studied from December 2024 to Augu
 I specialize in backend engineering, but my goal is to become a full-stack developer.
 <br>
 
-<h2>Skills and Technologies</h2>
+<h2>🛠️ Skills and Technologies</h2>
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
